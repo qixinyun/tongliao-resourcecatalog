@@ -99,5 +99,6 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['XZJLXXFRHQTZZ'] => '行政奖励信息（社会法人）',
         IResourceCatalog::TYPE['XBXZCF'] => '2019行政处罚公示信息',
         IResourceCatalog::TYPE['XBXZXK'] => '2019行政许可公示信息',
+        IResourceCatalog::TYPE['TEST'] => '演示资源目录',
     );
 }
