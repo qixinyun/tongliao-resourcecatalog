@@ -402,5 +402,6 @@ interface IUserGroupIdentify
         IUserGroup::ID['KLXWBMJYJ'] => 'KLXWBMJYJ',
         IUserGroup::ID['KLXJLJCWYH'] => 'KLXJLJCWYH',
         IUserGroup::ID['KLXJCWYH'] => 'KLXJCWYH',
+        IUserGroup::ID['FY'] => 'FY',
     );
 }

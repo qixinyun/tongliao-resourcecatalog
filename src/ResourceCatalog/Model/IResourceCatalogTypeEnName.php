@@ -99,6 +99,9 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['XZJLXXFRHQTZZ'] => 'xzjlxxfrhqtzz',
         IResourceCatalog::TYPE['XBXZCF'] => 'xbxzcf',
         IResourceCatalog::TYPE['XBXZXK'] => 'xbxzxk',
+        IResourceCatalog::TYPE['SXBZXRXX'] => 'sxbzxrxx',
+        IResourceCatalog::TYPE['ZDSSWFAJXX'] => 'zdsswfajxx',
+        IResourceCatalog::TYPE['HXLDGXXX'] => 'hxldgxxx',
         IResourceCatalog::TYPE['TEST'] => 'test',
     );
 }

@@ -401,5 +401,6 @@ interface IUserGroup extends IUserGroupIdentify
         'KLXWBMJYJ' => 938,
         'KLXJLJCWYH' => 939,
         'KLXJCWYH' => 940,
+        'FY' => 946,
     );
 }
