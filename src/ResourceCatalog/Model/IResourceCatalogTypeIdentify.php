@@ -102,6 +102,10 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['SXBZXRXX'] => 'SXBZXRXX',
         IResourceCatalog::TYPE['ZDSSWFAJXX'] => 'ZDSSWFAJXX',
         IResourceCatalog::TYPE['HXLDGXXX'] => 'HXLDGXXX',
+        IResourceCatalog::TYPE['SCAQBLJLHMD'] => 'SCAQBLJLHMD',
+        IResourceCatalog::TYPE['YZSXWFQY'] => 'YZSXWFQY',
+        IResourceCatalog::TYPE['HGSXQY'] => 'HGSXQY',
+        IResourceCatalog::TYPE['HGGJRZ'] => 'HGGJRZ',
         IResourceCatalog::TYPE['TEST'] => 'TEST',
     );
 }

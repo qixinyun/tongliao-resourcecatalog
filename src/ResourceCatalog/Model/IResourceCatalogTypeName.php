@@ -102,6 +102,10 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['SXBZXRXX'] => '失信被执行人信息',
         IResourceCatalog::TYPE['ZDSSWFAJXX'] => '重大税收违法案件信息',
         IResourceCatalog::TYPE['HXLDGXXX'] => '和谐劳动关系信息',
+        IResourceCatalog::TYPE['SCAQBLJLHMD'] => '生产安全不良记录黑名单',
+        IResourceCatalog::TYPE['YZSXWFQY'] => '严重失信违法企业',
+        IResourceCatalog::TYPE['HGSXQY'] => '海关失信企业',
+        IResourceCatalog::TYPE['HGGJRZ'] => '海关高级认证',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
     );
 }
