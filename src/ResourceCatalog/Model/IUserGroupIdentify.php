@@ -30,7 +30,7 @@ interface IUserGroupIdentify
         IUserGroup::ID['TYJ'] => 'TYJ',
         IUserGroup::ID['SYJ'] => 'SYJ',
         IUserGroup::ID['GSJ'] => 'GSJ',
-        IUserGroup::ID['ZJJ'] => 'ZJJ',
+        IUserGroup::ID['ZHIJJ'] => 'ZHIJJ',
         IUserGroup::ID['AJJ'] => 'AJJ',
         IUserGroup::ID['TJJ'] => 'TJJ',
         IUserGroup::ID['LFW'] => 'LFW',

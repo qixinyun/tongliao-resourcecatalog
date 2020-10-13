@@ -30,7 +30,7 @@ interface IUserGroup extends IUserGroupIdentify
         'TYJ' => 23,
         'SYJ' => 24,
         'GSJ' => 25,
-        'ZJJ' => 26,
+        'ZHIJJ' => 26,
         'AJJ' => 27,
         'TJJ' => 28,
         'LFW' => 29,
