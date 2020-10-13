@@ -403,5 +403,9 @@ interface IUserGroupIdentify
         IUserGroup::ID['KLXJLJCWYH'] => 'KLXJLJCWYH',
         IUserGroup::ID['KLXJCWYH'] => 'KLXJCWYH',
         IUserGroup::ID['FY'] => 'FY',
+
+        IUserGroup::ID['TLSZLSGS'] => 'TLSZLSGS',
+        IUserGroup::ID['XARQYXGS'] => 'XARQYXGS',
+        IUserGroup::ID['TLSDYJ'] => 'TLSDYJ',
     );
 }

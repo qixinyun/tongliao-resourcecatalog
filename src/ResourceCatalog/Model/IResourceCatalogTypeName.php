@@ -106,6 +106,13 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['YZSXWFQY'] => '严重失信违法企业',
         IResourceCatalog::TYPE['HGSXQY'] => '海关失信企业',
         IResourceCatalog::TYPE['HGGJRZ'] => '海关高级认证',
+        IResourceCatalog::TYPE['ZZQSGBZHSFGDMD'] => '自治区施工安全标准化示范工地表彰名单',
+        IResourceCatalog::TYPE['ZZQCYBGCZLJMD'] => '内蒙古自治区“草原杯”工程质量奖名单',
+        IResourceCatalog::TYPE['ZZQYZYBGCMD'] => '内蒙古自治区优质样板工程名单',
+        IResourceCatalog::TYPE['ZLSJFXX'] => '自来水缴费信息',
+        IResourceCatalog::TYPE['RQJFXX'] => '燃气缴费信息',
+        IResourceCatalog::TYPE['DLJFXX'] => '电力缴费信息',
+
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
     );
 }
