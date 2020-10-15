@@ -110,9 +110,6 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['ZZQSGBZHSFGDMD'] => 'ZZQSGBZHSFGDMD',
         IResourceCatalog::TYPE['ZZQCYBGCZLJMD'] => 'ZZQCYBGCZLJMD',
         IResourceCatalog::TYPE['ZZQYZYBGCMD'] => 'ZZQYZYBGCMD',
-        IResourceCatalog::TYPE['ZLSJFXX'] => 'ZLSJFXX',
-        IResourceCatalog::TYPE['RQJFXX'] => 'RQJFXX',
-        IResourceCatalog::TYPE['DLJFXX'] => 'DLJFXX',
 
         IResourceCatalog::TYPE['TEST'] => 'TEST',
     );

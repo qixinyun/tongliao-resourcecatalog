@@ -109,9 +109,6 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'ZZQSGBZHSFGDMD' => 102,
         'ZZQCYBGCZLJMD' => 103,
         'ZZQYZYBGCMD' => 104,
-        'ZLSJFXX' => 105,
-        'RQJFXX' => 106,
-        'DLJFXX' => 107,
         'TEST' => 500,
     );
 
@@ -714,15 +711,6 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['KLXJCWYH'] => array(),
         IUserGroup::ID['FY'] => array(
             self::TYPE['SXBZXRXX'],
-        ),
-        IUserGroup::ID['TLSZLSGS'] => array(
-            self::TYPE['ZLSJFXX']
-        ),
-        IUserGroup::ID['XARQYXGS'] => array(
-            self::TYPE['RQJFXX']
-        ),
-        IUserGroup::ID['TLSDYJ'] => array(
-            self::TYPE['DLJFXX']
         ),
     );
 
