@@ -109,7 +109,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['ZZQSGBZHSFGDMD'] => '自治区施工安全标准化示范工地表彰名单',
         IResourceCatalog::TYPE['ZZQCYBGCZLJMD'] => '内蒙古自治区“草原杯”工程质量奖名单',
         IResourceCatalog::TYPE['ZZQYZYBGCMD'] => '内蒙古自治区优质样板工程名单',
-
+        IResourceCatalog::TYPE['CCJCJG'] => '抽查检查结果',
+        //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
     );
 }
