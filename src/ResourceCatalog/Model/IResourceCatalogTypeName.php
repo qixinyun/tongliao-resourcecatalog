@@ -110,6 +110,20 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['ZZQCYBGCZLJMD'] => '内蒙古自治区“草原杯”工程质量奖名单',
         IResourceCatalog::TYPE['ZZQYZYBGCMD'] => '内蒙古自治区优质样板工程名单',
         IResourceCatalog::TYPE['CCJCJG'] => '抽查检查结果',
+        
+        IResourceCatalog::TYPE['BGJLXX'] => '变更记录信息',
+        IResourceCatalog::TYPE['CPWSXX'] => '裁判文书信息',
+        IResourceCatalog::TYPE['DWTZXX'] => '对外投资信息',
+        IResourceCatalog::TYPE['GDXX'] => '股东信息',
+        IResourceCatalog::TYPE['GSXX'] => '工商信息',
+        IResourceCatalog::TYPE['KGGX'] => '控股关系',
+        IResourceCatalog::TYPE['KZQYXX'] => '控制企业信息',
+        IResourceCatalog::TYPE['QYNB'] => '企业年报',
+        IResourceCatalog::TYPE['SFAJXX'] => '司法案件信息',
+        IResourceCatalog::TYPE['SJKZR'] => '实际控制人',
+        IResourceCatalog::TYPE['ZLXX'] => '专利信息',
+        IResourceCatalog::TYPE['ZYRY'] => '主要人员',
+        IResourceCatalog::TYPE['ZZZS'] => '资质证书',
         //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
     );

@@ -112,6 +112,20 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['ZZQYZYBGCMD'] => 'ZZQYZYBGCMD',
         IResourceCatalog::TYPE['CCJCJG'] => 'CCJCJG',
 
+        IResourceCatalog::TYPE['CPWSXX'] => 'CPWSXX',
+        IResourceCatalog::TYPE['DWTZXX'] => 'DWTZXX',
+        IResourceCatalog::TYPE['GDXX'] => 'GDXX',
+        IResourceCatalog::TYPE['GSXX'] => 'GSXX',
+        IResourceCatalog::TYPE['KGGX'] => 'KGGX',
+        IResourceCatalog::TYPE['KZQYXX'] => 'KZQYXX',
+        IResourceCatalog::TYPE['QYNB'] => 'QYNB',
+        IResourceCatalog::TYPE['SFAJXX'] => 'SFAJXX',
+        IResourceCatalog::TYPE['SJKZR'] => 'SJKZR',
+        IResourceCatalog::TYPE['ZLXX'] => 'ZLXX',
+        IResourceCatalog::TYPE['ZYRY'] => 'ZYRY',
+        IResourceCatalog::TYPE['ZZZS'] => 'ZZZS',
+        IResourceCatalog::TYPE['BGJLXX'] => 'BGJLXX',
+        
         IResourceCatalog::TYPE['TEST'] => 'TEST',
         //@position
     );
