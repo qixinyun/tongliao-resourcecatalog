@@ -127,6 +127,7 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['BGJLXX'] => 'BGJLXX',
         
         IResourceCatalog::TYPE['TEST'] => 'TEST',
+        IResourceCatalog::TYPE['ZHXYPJ'] => 'ZHXYPJ',
         //@position
     );
 }

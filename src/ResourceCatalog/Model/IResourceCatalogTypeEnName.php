@@ -127,6 +127,7 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['ZZZS'] => 'zzzs',
         
         IResourceCatalog::TYPE['TEST'] => 'test',
+        IResourceCatalog::TYPE['ZHXYPJ'] => 'zhxypj',
         //@position
     );
 }

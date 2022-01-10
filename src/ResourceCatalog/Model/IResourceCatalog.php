@@ -124,7 +124,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'ZLXX'=>116,
         'ZYRY'=>117,
         'ZZZS'=>118,
-        //@position_type_119
+        'ZHXYPJ'=>119,
+        //@position_type_120
         'TEST' => 500,
     );
 
@@ -142,6 +143,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['TZXMMCDMPPXX'],
             self::TYPE['QYGDZCTZXMHZHBA'],
             self::TYPE['TEST'],
+            self::TYPE['ZHXYPJ'],
         ),
         IUserGroup::ID['JYJ'] => array(
             self::TYPE['JSZGXX'],

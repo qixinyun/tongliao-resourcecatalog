@@ -126,5 +126,6 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['ZZZS'] => '资质证书',
         //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
+        IResourceCatalog::TYPE['ZHXYPJ'] => '综合信用评价',
     );
 }
