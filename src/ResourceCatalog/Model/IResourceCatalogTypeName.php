@@ -124,6 +124,12 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['ZLXX'] => '专利信息',
         IResourceCatalog::TYPE['ZYRY'] => '主要人员',
         IResourceCatalog::TYPE['ZZZS'] => '资质证书',
+        IResourceCatalog::TYPE['JTYSB_GLGCJSLYSXDXQY'] => '2018年公路工程建设领域守信典型企业目录公示(施工/设计/监理)',
+        IResourceCatalog::TYPE['JTYSB_SYGCJSLYSXDXQY'] => '2018年水运工程建设领域守信典型企业目录（施工/设计/监理）',
+        IResourceCatalog::TYPE['TJSYZSXQY'] => '统计上严重失信企业汇总表(惩戒名单)',
+        IResourceCatalog::TYPE['ZHIJIAN_CRJJYJYYZSXQYMD'] => '2016年度出入境检验检疫严重失信企业名单',
+        IResourceCatalog::TYPE['ZHIJIAN_YZZLSXQYMD'] => '严重质量失信企业名单',
+        IResourceCatalog::TYPE['YZWFYSSXDSRMD'] => '严重违法超限超载',
         //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
         IResourceCatalog::TYPE['ZHXYPJ'] => '综合信用评价',

@@ -128,6 +128,12 @@ interface IResourceCatalogTypeEnName
         
         IResourceCatalog::TYPE['TEST'] => 'test',
         IResourceCatalog::TYPE['ZHXYPJ'] => 'zhxypj',
+        IResourceCatalog::TYPE['JTYSB_GLGCJSLYSXDXQY'] => 'jtysb_glgcjslysxdxqy',
+        IResourceCatalog::TYPE['JTYSB_SYGCJSLYSXDXQY'] => 'jtysb_sygcjslysxdxqy',
+        IResourceCatalog::TYPE['TJSYZSXQY'] => 'tjsyzsxqy',
+        IResourceCatalog::TYPE['ZHIJIAN_CRJJYJYYZSXQYMD'] => 'zhijian_crjjyjyyzsxqymd',
+        IResourceCatalog::TYPE['ZHIJIAN_YZZLSXQYMD'] => 'zhijian_yzzlsxqymd',
+        IResourceCatalog::TYPE['YZWFYSSXDSRMD'] => 'yzwfyssxdsrmd',
         //@position
     );
 }
