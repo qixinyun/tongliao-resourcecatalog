@@ -256,8 +256,6 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['GRYCJJBAXX'],
             self::TYPE['XZJLXXZRR'],
             self::TYPE['XZJLXXFRHQTZZ'],
-            self::TYPE['XBXZCF'],
-            self::TYPE['XBXZXK'],
             self::TYPE['SXBZXRXX'],
             self::TYPE['ZDSSWFAJXX'],
             self::TYPE['HXLDGXXX'],
