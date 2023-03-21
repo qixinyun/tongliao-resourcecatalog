@@ -134,6 +134,7 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['ZHIJIAN_CRJJYJYYZSXQYMD'] => 'zhijian_crjjyjyyzsxqymd',
         IResourceCatalog::TYPE['ZHIJIAN_YZZLSXQYMD'] => 'zhijian_yzzlsxqymd',
         IResourceCatalog::TYPE['YZWFYSSXDSRMD'] => 'yzwfyssxdsrmd',
+        IResourceCatalog::TYPE['ZFCGBLXWJL'] => 'zfcgblxwjl',
         //@position
     );
 }

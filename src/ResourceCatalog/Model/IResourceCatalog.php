@@ -131,7 +131,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'ZHIJIAN_CRJJYJYYZSXQYMD' => 123,
         'ZHIJIAN_YZZLSXQYMD' => 124,
         'YZWFYSSXDSRMD' => 125,
-        //@position_type_126
+        'ZFCGBLXWJL'=>126,
+        //@position_type_127
         'TEST' => 500,
     );
 
@@ -144,6 +145,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         ),
         IUserGroup::ID['FGW'] => array(
             self::TYPE['TEST'],
+            self::TYPE['ZFCGBLXWJL'],
             self::TYPE['YZWFYSSXDSRMD'],
             self::TYPE['ZHIJIAN_YZZLSXQYMD'],
             self::TYPE['ZHIJIAN_CRJJYJYYZSXQYMD'],

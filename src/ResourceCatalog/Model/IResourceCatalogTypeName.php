@@ -130,6 +130,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['ZHIJIAN_CRJJYJYYZSXQYMD'] => '2016年度出入境检验检疫严重失信企业名单',
         IResourceCatalog::TYPE['ZHIJIAN_YZZLSXQYMD'] => '严重质量失信企业名单',
         IResourceCatalog::TYPE['YZWFYSSXDSRMD'] => '严重违法超限超载',
+        IResourceCatalog::TYPE['ZFCGBLXWJL'] => '政府采购不良行为记录',
         //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
         IResourceCatalog::TYPE['ZHXYPJ'] => '综合信用评价',
